@@ -1,4 +1,5 @@
-Growth Analysis Sales Dashboard in Power BI 📊💼
+**Growth Analysis Sales Dashboard in Power BI 📊💼**
+
 ⭐ The company has seen consistent growth in total sales each year. However, the profit rate has not been growing consistently, leading to a need for deeper analysis to identify the gaps and suggest improvements. This dashboard was created to uncover key insights into the sales and profit trends, customer behavior, and product performance.
 
 🎯 The goal was to design a comprehensive sales dashboard in Power BI that would allow the company to:
